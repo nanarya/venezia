@@ -18,8 +18,8 @@
 ### 対応表
 |イタリア語|英語|解説|
 |-|-|-|
-|di|of|delだとof the|
-|la/il|the|女性名詞がla、男性名詞がil|
+|di|of|delだとof the。ほかにも種類ありそう|
+|la/il|the|女性名詞がla、男性名詞がil。他にも全部で7種類|
 |alla|a|一つのという意味のa|
 |San(S.), Santa(St.)||聖〜〜。後ろに人の名前が入ることが多い。|
 |da|from||

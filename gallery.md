@@ -3,10 +3,12 @@
 ### カ・ドーロCa'D'oro（ガッレリア・ジョルジョ・フランケッティGalleria Giorgio Franchetti）
 ### ヴェネツィア18世紀博物館カ・レッツォニコCa' Rezzzonico Museo del Settecento Veneziano
 ### アッカデミア美術館Galleria dell'Accademia
+### カ・ペーザロ近代美術館Ca' Pesaro Galleria d'Arte Moderna
+### ペギー・グッゲンハイム美術館Collezione Peggy Guggenheim
 
 ## 博物館
 
-ドゥカーレのチケットでぜんぶ入れる
+### ドゥカーレのチケットでぜんぶ入れる
 http://www.japanitalytravel.com/venezia/kanko.html
 ドゥカーレ宮殿
 コッレール博物館Museo Correr
