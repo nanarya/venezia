@@ -1,3 +1,8 @@
+---
+title: 食事に関する言葉
+description: レストランについてのページです。
+---
+
 # 食事に関する言葉
 食事に関してはこちらのリンクがわかりやすかったので掲載。  
 [http://www.japanitalytravel.com/guide/restaurant/mini.html](http://www.japanitalytravel.com/guide/restaurant/mini.html)

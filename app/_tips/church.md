@@ -1,3 +1,7 @@
+---
+title: 教会
+description: 教会についてのページです。
+---
 
 ## 教会
 ### フラーリ教会Santa Maria dei Frari
@@ -9,4 +13,3 @@
 ## スクオラ
 ### サン・ロッコ同信会Scuola Grande di San Rocco
 ### サン・ジョルジョ・デイ・スキアヴォーニ同信会Scuola di San Giorgio degli Schiavoni
-

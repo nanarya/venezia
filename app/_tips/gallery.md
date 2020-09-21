@@ -1,3 +1,8 @@
+---
+title: ギャラリー
+description: レストランについてのページです。
+---
+
 # 美術館/博物館/図書館
 ## 美術館
 ### カ・ドーロCa'D'oro（ガッレリア・ジョルジョ・フランケッティGalleria Giorgio Franchetti）
@@ -14,4 +19,3 @@ http://www.japanitalytravel.com/venezia/kanko.html
 コッレール博物館Museo Correr
 考古学博物館Museo Archeologico
 国立マルチャーナ図書館サンソヴィーノの間Biblioteca Nazionale Marciana, Sala Sansovino
-
